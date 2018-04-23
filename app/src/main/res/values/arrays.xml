@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>@string/defaultTag</item>
+        <item>@string/global</item>
+        <item>@string/us</item>
+        <item>@string/uk</item>
+        <item>@string/business</item>
+        <item>@string/science</item>
+        <item>@string/society</item>
+        <item>@string/sport</item>
+        <item>@string/art</item>
+        <item>@string/technology</item>
+    </string-array>
+
+</resources>
+
+

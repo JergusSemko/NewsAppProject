@@ -1,0 +1,11 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+    <ListPreference
+        android:title="@string/chosen_cat1"
+        android:defaultValue="@string/defaultTag"
+        android:key="@string/chosen_cat1"
+        android:summary="@string/chosen_cat2"
+        android:entries="@array/categories"
+        android:entryValues="@array/categories"/>
+</PreferenceScreen>

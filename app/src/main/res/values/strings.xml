@@ -1,0 +1,32 @@
+<resources>
+    <string name="name_of_the_app">News app</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="author">Author</string>
+    <string name="date">Date</string>
+
+    <string name="chosen_cat1">News category</string>
+    <string name="chosen_cat2">Choose your category</string>
+
+    <string name="defaultTag">"No preference"</string>
+    <string name="usChosen">"Us news"</string>
+    <string name="ukChosen">"Uk news"</string>
+
+    <string name="settings_title">Set preferred category</string>
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="everything">Default setting</string>
+    <string name="global">Global news</string>
+    <string name="us">US news</string>
+    <string name="uk">UK news</string>
+    <string name="business">Business</string>
+    <string name="science">Science</string>
+    <string name="society">Society</string>
+    <string name="sport">Sport</string>
+    <string name="art">Art and design</string>
+    <string name="technology">Technology</string>
+
+    <string name="nothing_to_display">Unfortunately there is no feedback from Guardian. Please retry again later.</string>
+    <string name="no_connection">No internet connection. Check your wi-fi or mobile data.</string>
+    <string name="no_browser">No web browser. Please download a browser first.</string>
+</resources>
